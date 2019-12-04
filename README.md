@@ -1,5 +1,10 @@
-# Tamil-TTS-install-script
+# Tamil-TTS-install-script (NEW VOICE!)
 
+# Installing new voice (@vasurobo)
+
+You can just extract the voice file and replace it in the voices folder inside "ssn_hts_demo" or change the voice name in "hts_engine.pl.in" file.  
+
+***************************************************************  
 Author : T Shrinivasan <tshrinivasan@gmail.com>
 
 This is a script to install the Tamil text to Speech System provided by IIT Madras and SSN College of Engineering at
@@ -37,3 +42,5 @@ This will generate 'tamil-text.mp3' file
 ## howto set your own HTKUSER and HTKPASSWORD in tamil-tts.sh
 Register here http://htk.eng.cam.ac.uk/download.shtml and get a username and password, replace your
 own username and passward in HTKUSER and HTKPASSWORD
+
+
